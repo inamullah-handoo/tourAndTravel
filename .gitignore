@@ -27,3 +27,4 @@ yarn-error.log*
 /public/js
 /src/assets/sass
 /src/index.css.map
+/src/assets/css/style.css.map
